@@ -9,3 +9,11 @@ Now, using the text editor of your choice (e.g., Atom), open this file.
 1. Using your terminal, add and commit the changes that you've made to your repository.
 
 1. Push the changes to GitHub, and then view them in your web browser.
+
+| **Number** | *Course* | Instructor |
+| ---------- |:--------:| ---------- |
+| **121**    | *CSE*    | Brett      |
+| **200**    | *INFO*   | Wes        |
+| **154**    | *CSE*    | TBD        |
+
+hello
